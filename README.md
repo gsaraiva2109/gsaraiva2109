@@ -31,7 +31,7 @@ Beyond the tech stack, **Homelabbing** is my craft. Whether I'm building middlew
   <!-- Row 1: Languages & Logic -->
   <h4 align="center">Languages & Logic</h4>
   <a href="https://github.com/gsaraiva2109">
-    <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,ts,java" />
+    <img src="https://skillicons.dev/icons?i=python,bash,js,ts,java" />
   </a>
   
   <!-- Row 2: Infrastructure, OS & DevOps -->
