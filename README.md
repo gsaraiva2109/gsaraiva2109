@@ -20,10 +20,7 @@ Beyond the tech stack, **Homelabbing** is my craft. Whether I'm building middlew
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsaraiva2109&langs_count=8&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gsaraiva2109&show_icons=true&theme=github_dark&card_width=150px&hide_border=true&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gsaraiva2109&show_icons=true&theme=default&card_width=150px&hide_border=true&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=gsaraiva2109&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 ## Skills Stack.
